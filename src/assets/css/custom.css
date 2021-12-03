@@ -1,0 +1,14 @@
+button:focus {
+    outline: 0px;
+}
+
+.full-container {
+    width: 100%;
+    height: calc(100vh - 64px);
+}
+
+.hv-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
